@@ -4,7 +4,7 @@
 <b>TENTATIVE SYLLABUS - Spring 2023</b>
 
 <H1>PHI 543/SML 543<br>
-Deep Learning: A Practical Introduction for Humanists and Social Scientists</H1>
+Machine Learning: A Practical Introduction for Humanists and Social Scientists</H1>
 <H3>Sarah-Jane Leslie<br>
 sjleslie@princeton.edu<br>
 www.princeton.edu/leslie</H3>
