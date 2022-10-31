@@ -9,25 +9,34 @@ Machine Learning: A Practical Introduction for Humanists and Social Scientists</
 sjleslie@princeton.edu<br>
 www.princeton.edu/leslie</H3>
 
+<H3> Thursdays 10:30-1:20, McGraw Digital Learning Lab (located in the Lewis Library)</H3>
 
-Machine learning – and in particular, deep learning – is rapidly opening new horizons for research in the humanities and social sciences. However, scholars in the humanities and social sciences can encounter barriers to learning about such techniques – for example, machine learning courses, especially at the graduate level, often require multivariate calculus, linear algebra and prior coding experience, which students in the humanities and less quantitative social sciences may lack. This course offers a practical introduction to deep learning for graduate students, without assuming knowledge of calculus or other college-level math, or any prior experience with coding. By the end of the course, students will: 
+
+<p>Machine learning – and in particular, deep learning – is rapidly opening new horizons for research in the humanities and social sciences. However, scholars in the humanities and social sciences can encounter barriers to learning about such techniques – for example, machine learning courses, especially at the graduate level, often require multivariate calculus, linear algebra and prior coding experience, which students in the humanities and less quantitative social sciences may lack. This course offers a practical introduction to deep learning for graduate students, without assuming knowledge of calculus or other college-level math, or any prior experience with coding. By the end of the course, students will:</p> 
 
 <ul><li>be able to code and train a variety of basic deep learning models</li>
 <li>develop an appreciation of the range of humanities/social science research questions to which deep learning can be applied</li>
 <li>be fluent collaborators on research projects that involve machine learning experts</li>
 <li>gain an understanding than will inform theorizing about machine learning (e.g., for research in AI ethics, technology policy, etc)</li></ul>
 
-<b>Readings:</b> The primary text for the course is Francois Chollet, 2021, Deep learning with Python. Simon and Schuster. We will work our way through the book in a lot of detail. In the second half of the course, once we have worked through the basics, there are supplemental readings each week, which give examples of how related models have been used in humanities/social science research. The supplemental readings aim to provide a sense of the breadth of applications, as well as to raise interesting issues for further thought and consideration.
+<p><b>Readings:</b> The primary text for the course is <em>Francois Chollet, 2021, Deep learning with Python. Manning.</em> We will work our way through the book in a lot of detail. In the second half of the course, once we have worked through the basics, there are supplemental readings each week, which give examples of how related models have been used in humanities/social science research. The supplemental readings aim to provide a sense of the breadth of applications, as well as to raise interesting issues for further thought and consideration.</p>
 
-<b>Evaluation and assignments:</b> There are simple weekly coding assignments to cement knowledge and build skills. Students taking the course for credit are required to complete these, though they are ungraded. That is, as long as a reasonable effort is made on them, students receive full credit for the week. In addition, there are three graded projects spaced throughout the semester. For these projects, students will be supplied with a humanities/social science data set and asked to build a model that addresses a research question appropriate to the data set. Students can choose from a list of suggested research questions, or can formulate their own. Evaluation will be based on the appropriateness of the model for the research question and the success of the code used to build/train the model. The three projects will cover the following areas respectively: classification/regression, computer vision, natural language processing. (For philosophy students only: successful completion of the above assignments will constitute a logic unit. Philosophy students wishing to receive a unit other than logic should contact me directly.) 
+<p><b>Evaluation and assignments:</b> There are simple weekly coding assignments to cement knowledge and build skills. Students taking the course for credit are required to complete these, though they are ungraded. That is, as long as a reasonable effort is made on them, students receive full credit for the week. In addition, there are three graded projects spaced throughout the semester. For these projects, students will be supplied with a humanities/social science data set and asked to build a model that addresses a research question appropriate to the data set. Students can choose from a list of suggested research questions, or can formulate their own. Evaluation will be based on the appropriateness of the model for the research question and the success of the code used to build/train the model. The three projects will cover the following areas respectively: classification/regression, computer vision, natural language processing. </p> 
 
-Final grades are determined in the following way: 20% homework, 20% classification/regression assignment, 30% computer vision assignment, 30% natural language processing assignment. 
+<p>Final grades are determined in the following way: 20% homework, 20% classification/regression assignment, 30% computer vision assignment, 30% natural language processing assignment. </p>
 
-<b>Auditing:</b> Graduate students are welcome to audit this course, however I request that even auditors engage with the weekly coding assignments, since the value of this class is largely associated with the development of practical skills. As with any kind of coding, these skills can only be learned by doing. Post-docs and other researchers/faculty are welcome to informally audit the class also.
+<p><b>Auditing:</b> Graduate students are welcome to audit this course, however I request that even auditors engage with the weekly coding assignments, since the value of this class is largely associated with the development of practical skills. As with any kind of coding, these skills can only be learned by doing. Post-docs and other researchers/faculty are welcome to informally audit the class also.</p>
+
+
+<H3>Important: Getting started in Python</H3>
+
+<p>I <b>highly recommend</b> that students who have never coded before do a Python tutorial such as <a href="https://www.youtube.com/watch?v=kqtD5dpn9C8">this one</a> prior to the first class, making sure to pause it periodically and implement the code yourself. You might also consider attending the 2023 Wintersession course entitled Python for Poets.</p>
+
+<p>We will spend much of the first session doing a crash course in Python, but coding is a skill that takes time to develop. The first class will be very difficult for you if you are seeing the material for the very first time.</p>
+
+<p>To get started writing Python code, you can simply go to [LINK COMING SOON]. You do not need to install anything locally on your computer (e.g., you can skip the first steps in the video tutorial linked above).</p>
 
 <H3>Schedule of Topics</H3>
-
-<em>NB: I highly recommend that students who have never coded before review [PYTHON RESOURCE] prior to the first class.</em>
 
 <b>Week 1:</b> Overview of machine learning; crash course in Python basics<br>
 Reading: Chollet, chapter 1
