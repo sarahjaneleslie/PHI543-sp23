@@ -30,13 +30,13 @@ www.princeton.edu/leslie</H3>
 
 <H3>Important: Getting started in Python</H3>
 
-<p>I <b>highly recommend</b> that students who have never coded before do a Python tutorial such as <a href="https://www.youtube.com/watch?v=kqtD5dpn9C8">this one</a> prior to the first class, making sure to pause it periodically and implement the code yourself. You might also consider attending the 2023 Wintersession course entitled Python for Poets.</p>
+<p>I <b>highly recommend</b> that students who have never coded before do a Python tutorial prior to the first class. A repository of good tutorials can be found <a href="https://researchcomputing.princeton.edu/external-online-resources/python">here</a>. For the <a href="https://www.w3schools.com/python/">W3 Schools tutorial,</a> I recommend working through it up to Classes/Objects. You might also consider attending a 2023 Wintersession course such as Intro to Programming Using Python or Python for Poets.</p>
 
 <p>I also recommend taking a look at <a href="https://pythontutor.com/python-debugger.html#mode=edit">this resource</a> for visualizing and understanding the execution of programs in Python.</p>
 
 <p>We will spend much of the first session doing a crash course in Python, but coding is a skill that takes time to develop. The first class will be very difficult for you if you are seeing the material for the very first time.</p>
 
-<p>To get started writing Python code, you can simply go to [LINK COMING SOON]. You do not need to install anything locally on your computer (e.g., you can skip the first steps in the video tutorial linked above).</p>
+<p>To get started writing Python code, you can simply go to [LINK COMING SOON]. You do not need to install anything locally on your computer.</p>
 
 <H3>Schedule of Topics</H3>
 
