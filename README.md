@@ -69,11 +69,11 @@ Supplemental reading: <a href="https://academic.oup.com/dsh/article/35/1/194/529
 
 <em>Computer vision project assignment distributed</em>
 
-<p><b>Week 8:</b> Computer vision II: classification, segmentation and object detection<br>
+<p><b>Week 8:</b> Computer vision II: classification and segmentation<br>
 Reading: Chollet, chapter 9<br>
 Supplemental reading: <a href="https://www.sciencedirect.com/science/article/pii/S0305440321000455">Leszek M. Pawlowicz, Christian E. Downum, Applications of deep learning to decorated ceramic typology and classification: A case study using Tusayan White Ware from Northeast Arizona, Journal of Archaeological Science, Volume 130, 2021, 105375.</a></p>
 
-<p><b>Week 9:</b> Natural Language Processing I: uses of NLP; word embeddings<br>
+<p><b>Week 9:</b> Natural Language Processing I: uses of NLP; sequence models; word embeddings<br>
 Reading: Chollet chapter 11, sections 1-3<br>
 Supplemental reading: <a href="https://tessaescharlesworth.files.wordpress.com/2022/07/charlesworth_hist-embeddings_published.pdf">Charlesworth, T.E.S., Caliskan, A., & Banaji, M.R., (2022) Historical representations of social groups across 200 years of word embeddings from Google Books. Proceedings of the National Academy of Sciences, 119(28).</a><br> 
 <a href="https://www.nature.com/articles/s41562-022-01316-8">Grand, G., Blank, I.A., Pereira, F. et al. Semantic projection recovers rich human knowledge of multiple object features from word embeddings. Nat Hum Behav 6, 975–987 (2022).</a> <br>
