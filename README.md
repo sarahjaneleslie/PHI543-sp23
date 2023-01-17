@@ -36,7 +36,7 @@ www.princeton.edu/leslie</H3>
 
 <p>We will spend much of the first session doing a crash course in Python, but coding is a skill that takes time to develop. The first class will be very difficult for you if you are seeing the material for the very first time.</p>
 
-<p>To get started writing Python code, you can simply go to [LINK COMING SOON]. You do not need to install anything locally on your computer.</p>
+<p>To get started writing Python code, you first need to <a href="https://forms.rc.princeton.edu/registration/?q=adroit">create an Adroit account.</a> Once you have done so, you can simply go <a href="https://myadroit.princeton.edu/">here</a> and navigate to Interactive Apps then Jupyter for Classes. (Note that VPN is required from off campus.) You do not need to install anything locally on your computer. More detailed instructions can be found on the Canvas page for this course.</p>
 
 <H3>Schedule of Topics</H3>
 
@@ -46,20 +46,20 @@ Reading: Chollet, chapter 1</p>
 <p><b>Week 2:</b> Fundamentals of neural networks<br>
 Reading: Chollet, chapter 2</p>
 
-<p><b>Week 3:</b> Introduction to Keras<br>
-Reading: Chollet, chapter 3</p>
+<p><b>Week 3:</b> Introduction to Keras;  Classification and regression<br>
+Reading: Chollet, chapters 3.1-3.3, 3.6, & chapter 4</p>
 
-<p><b>Week 4:</b> Classification and regression<br>
-Reading: Chollet, chapter 4</p>
+<p><b>Week 4:</b> Training, validation, and test sets; evaluation, hyperparameters and regularization<br>
+Reading: Chollet, chapter 5</p>
 
 <em>Classification/regression project assignment distributed</em>
 
-<p><b>Week 5:</b> Training, validation, and test sets; evaluation, hyperparameters and regularization<br>
-Reading: Chollet, chapters 5 and 6</p>
+<p><b>Week 5:</b> Best practices for model evaluation<br>
+Reading: Chollet, chapter 6, <a href="https://arxiv.org/abs/2207.07048">Kapoor, S. & Narayanan, A. (2022)</a> </p>
 
-<p><b>Week 6:</b> Best practices for model evaluation; introduction to Keras functional API<br>
+<p><b>Week 6:</b> The Keras functional API<br>
 Reading: Chollet, chapter 7<br>
-Supplemental reading: Kapoor, S. & Narayanan, A. (2022), https://arxiv.org/abs/2207.07048 </p>
+Supplemental reading:  </p>
 
 <em>Classification/regression project due</em>
 
@@ -70,11 +70,11 @@ Supplemental reading: <a href="https://academic.oup.com/dsh/article/35/1/194/529
 <em>Computer vision project assignment distributed</em>
 
 <p><b>Week 8:</b> Computer vision II: classification and segmentation<br>
-Reading: Chollet, chapter 9<br>
+Reading: Chollet, chapter 9.1-9.3<br>
 Supplemental reading: <a href="https://www.sciencedirect.com/science/article/pii/S0305440321000455">Leszek M. Pawlowicz, Christian E. Downum, Applications of deep learning to decorated ceramic typology and classification: A case study using Tusayan White Ware from Northeast Arizona, Journal of Archaeological Science, Volume 130, 2021, 105375.</a></p>
 
-<p><b>Week 9:</b> Natural Language Processing I: uses of NLP; sequence models; word embeddings<br>
-Reading: Chollet chapter 11, sections 1-3<br>
+<p><b>Week 9:</b> Natural Language Processing I: sequence models; word embeddings<br>
+Reading: Chollet chapter 10 and 11.1-11.3<br>
 Supplemental reading: <a href="https://tessaescharlesworth.files.wordpress.com/2022/07/charlesworth_hist-embeddings_published.pdf">Charlesworth, T.E.S., Caliskan, A., & Banaji, M.R., (2022) Historical representations of social groups across 200 years of word embeddings from Google Books. Proceedings of the National Academy of Sciences, 119(28).</a><br> 
 <a href="https://www.nature.com/articles/s41562-022-01316-8">Grand, G., Blank, I.A., Pereira, F. et al. Semantic projection recovers rich human knowledge of multiple object features from word embeddings. Nat Hum Behav 6, 975–987 (2022).</a> <br>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4433545/">Eichstaedt, J. C., Schwartz, H. A., Kern, M. L., Park, G., Labarthe, D. R., Merchant, R. M., ... & Seligman, M. E. (2015). Psychological language on Twitter predicts county-level heart disease mortality. Psychological science, 26(2), 159-169.</a><br></p>
@@ -82,18 +82,18 @@ Supplemental reading: <a href="https://tessaescharlesworth.files.wordpress.com/2
 <em>Computer vision project due</em>
 
 <p><b>Week 10:</b> NLP II: transformers<br>
-Reading: Chollet chapter 11, sections 4-5<br>
+Reading: Chollet chapter 11.4<br>
 Supplemental reading: <a href="https://www.nature.com/articles/s41586-022-04448-z?utm_campaign=The%20Batch&utm_medium=email&_hsmi=222428230&_hsenc=p2ANqtz-_kr0H_rGJOIJRXWpDlGwP298BuR5SoKbROhB05hKXLpwXYaktKDQq3fq7RfNIXxV4DSCytHhkc_T2aCIlnx-SWBivzg1GfDrQFM5c4bz-0KgE_Low&utm_content=222428230&utm_source=hs_email">Assael, Y., Sommerschield, T., Shillingford, B. et al. Restoring and attributing ancient texts using deep neural networks. Nature 603, 280–283 (2022).</a> </p>
 
 <p><b>Week 11:</b> NLP III: automatic text generation; introduction to Hugging Face<br>
-Reading: Chollet chapter 12, section 1<br>
+Reading: Chollet chapter 11.5, 12.1<br>
 Supplemental reading: <a href="https://www.scientificamerican.com/article/we-asked-gpt-3-to-write-an-academic-paper-about-itself-mdash-then-we-tried-to-get-it-published/">Osmanovic Thunström, A. (2022). We Asked GPT-3 to Write an Academic Paper about Itself—Then We Tried to Get It Published. Scientific American, June 30 2022.</a> <br>
 <a href="https://hal.archives-ouvertes.fr/hal-03701250/document"> Gpt Generative Pretrained Transformer, Almira Osmanovic Thunström, Steinn Steingrimsson. Can GPT-3 write an academic paper on itself, with minimal human input?. 2022. hal-03701250.</a><br>
 <a href="https://www.nature.com/articles/d41586-021-00530-0">Hutson, M. (2021). Robo-writers: the rise and risks of language-generating AI. Nature 591, 22-25.</a></p>
 
 <em>NLP project distributed</em>
 
-<p><b>Week 12:</b> Review; new horizons in machine learning<br>
+<p><b>Week 12:</b> Review; loose ends; new horizons in machine learning<br>
 Supplemental reading: <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993">Lake, B., Ullman, T., Tenenbaum, J., & Gershman, S. (2017). Building machines that learn and think like people. Behavioral and Brain Sciences, 40, E253.</a> <br>
 	<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/98F5E24BEADE585050B773D2CBEB1F39/S0045509121000230a.pdf/whats_wrong_with_automated_influence.pdf">Benn, C., & Lazar, S. (2022). What’s wrong with Automated Influence. Canadian Journal of Philosophy, 1-24.</a></p>
 
