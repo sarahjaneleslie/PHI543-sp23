@@ -50,10 +50,10 @@ Reading: Chollet, chapter 2</p>
 Reading: Chollet, chapter 2 cont.</p>
 
 <p><b>Week 4:</b> Introduction to Keras;  Classification and regression<br>
-Reading: Chollet, chapters 3.1-3.3, 3.6, & chapter 4</p>
+Reading: Chollet, sections 3.1-3.3, 3.6, & 4.1-4.2</p>
 
 <p><b>Week 5:</b> Training, validation, and test sets; evaluation, hyperparameters and regularization<br>
-Reading: Chollet, chapter 5</p>
+Reading: Chollet, section 4.3 & chapter 5</p>
 
 <p><b>Week 6:</b> Best practices for model evaluation; overview of SciKit-Learn<br>
 Reading: Chollet, chapter 6, <a href="https://arxiv.org/abs/2207.07048">Kapoor, S. & Narayanan, A. (2022)</a> </p>
