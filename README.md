@@ -1,7 +1,7 @@
 # PHI543-sp23
 
 # sarahjaneleslie.github.io
-<b>TENTATIVE SYLLABUS - Spring 2023</b>
+<b>SYLLABUS - Spring 2023</b>
 
 <H1>PHI 543/SML 543<br>
 Machine Learning: A Practical Introduction for Humanists and Social Scientists</H1>
