@@ -52,37 +52,37 @@ Reading: Chollet, chapter 2 cont.</p>
 <p><b>Week 4:</b> Introduction to Keras;  Classification and regression<br>
 Reading: Chollet, sections 3.1-3.3, 3.6, & 4.1-4.2</p>
 
-<p><b>Week 5:</b> Training, validation, and test sets; evaluation, hyperparameters and regularization<br>
+<p><b>Week 5:</b> Training, validation, and test sets; regularization; other practicalities<br>
 Reading: Chollet, section 4.3 & chapter 5</p>
 
-<p><b>Week 6:</b> Best practices for model evaluation; overview of SciKit-Learn<br>
+<p><b>Week 6:</b> Best practices for model evaluation; overview of other helpful Python libraries<br>
 Reading: Chollet, chapter 6, <a href="https://arxiv.org/abs/2207.07048">Kapoor, S. & Narayanan, A. (2022)</a> </p>
 
 <em>Classification/regression project assignment distributed</em>
 
 <p>Spring break</p>
 
-<p><b>Week 7:</b> The Keras functional API<br>
-Reading: Chollet, chapter 7<br>
+<p><b>Week 7:</b> The Keras functional API; loose ends; introduction to computer vision<br>
+Reading: Chollet, chapter 7 up to (but not including) section 7.2.3<br>
 Supplemental reading:  </p>
 
 <em>Classification/regression project due</em>
 
 <p><b>Week 8:</b> Computer vision I: introduction to convolutional neural networks<br>
-Reading: Chollet, chapter 8<br>
+Reading: Chollet, sections 8.1-8.2<br>
 Supplemental reading: <a href="https://academic.oup.com/dsh/article/35/1/194/5296356">Melvin Wevers, Thomas Smits, The visual digital turn: Using neural networks to study historical images, Digital Scholarship in the Humanities, Volume 35, Issue 1, April 2020, Pages 194–207.</a></p>
 
-<p><b>Week 9:</b> Computer vision II: classification and segmentation<br>
-Reading: Chollet, chapter 9.1-9.3<br>
+<p><b>Week 9:</b> Computer vision II: classification; pretrained models<br>
+Reading: Chollet, sections 8.3; 9.3<br>
 Supplemental reading: <a href="https://www.sciencedirect.com/science/article/pii/S0305440321000455">Leszek M. Pawlowicz, Christian E. Downum, Applications of deep learning to decorated ceramic typology and classification: A case study using Tusayan White Ware from Northeast Arizona, Journal of Archaeological Science, Volume 130, 2021, 105375.</a></p>
 
 <em>Computer vision project assignment distributed</em>
 
-<p><b>Week 10:</b> Natural Language Processing I: sequence models; word embeddings<br>
-Reading: Chollet chapter 10 and 11.1-11.3<br>
+<p><b>Week 10:</b> Natural Language Processing I: representing words as numbers<br>
+Reading: Chollet sections 11.1-11.3<br>
 Supplemental reading: <a href="https://tessaescharlesworth.files.wordpress.com/2022/07/charlesworth_hist-embeddings_published.pdf">Charlesworth, T.E.S., Caliskan, A., & Banaji, M.R., (2022) Historical representations of social groups across 200 years of word embeddings from Google Books. Proceedings of the National Academy of Sciences, 119(28).</a><br> 
 <a href="https://www.nature.com/articles/s41562-022-01316-8">Grand, G., Blank, I.A., Pereira, F. et al. Semantic projection recovers rich human knowledge of multiple object features from word embeddings. Nat Hum Behav 6, 975–987 (2022).</a> <br>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4433545/">Eichstaedt, J. C., Schwartz, H. A., Kern, M. L., Park, G., Labarthe, D. R., Merchant, R. M., ... & Seligman, M. E. (2015). Psychological language on Twitter predicts county-level heart disease mortality. Psychological science, 26(2), 159-169.</a><br></p>
+
 
 
 
@@ -105,4 +105,4 @@ Additional supplemental readings: <a href="https://www.cambridge.org/core/journa
 	<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/98F5E24BEADE585050B773D2CBEB1F39/S0045509121000230a.pdf/whats_wrong_with_automated_influence.pdf">Benn, C., & Lazar, S. (2022). What’s wrong with Automated Influence. Canadian Journal of Philosophy, 1-24.</a></p>
 
 
-<em>NLP project due on appropriate date based on University calendar</em>
+<em>NLP project due on Dean's date: May 9th</em>
