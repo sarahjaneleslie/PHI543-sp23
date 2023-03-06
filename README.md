@@ -7,7 +7,7 @@
 Machine Learning: A Practical Introduction for Humanists and Social Scientists</H1>
 <H3>Sarah-Jane Leslie<br>
 sjleslie@princeton.edu<br>
-www.princeton.edu/leslie</H3>
+	<a href="www.princeton.edu/leslie">www.princeton.edu/leslie</a></H3>
 
 <H3> Thursdays 10:30-1:20, rm. 103 Bendheim House (CSML), 26 Prospect Ave</H3>
 
