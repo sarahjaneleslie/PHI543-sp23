@@ -90,9 +90,9 @@ Supplemental reading: <a href="https://tessaescharlesworth.files.wordpress.com/2
 Reading: Chollet chapter 11.4<br>
 Supplemental reading: <a href="https://www.nature.com/articles/s41586-022-04448-z?utm_campaign=The%20Batch&utm_medium=email&_hsmi=222428230&_hsenc=p2ANqtz-_kr0H_rGJOIJRXWpDlGwP298BuR5SoKbROhB05hKXLpwXYaktKDQq3fq7RfNIXxV4DSCytHhkc_T2aCIlnx-SWBivzg1GfDrQFM5c4bz-0KgE_Low&utm_content=222428230&utm_source=hs_email">Assael, Y., Sommerschield, T., Shillingford, B. et al. Restoring and attributing ancient texts using deep neural networks. Nature 603, 280–283 (2022).</a> </p>
 
-<em>Computer vision project due</em>
+<em>Computer vision project due</em><br>
 
-<em>NLP project distributed</em>
+<em>NLP project distributed</em><br>
 
 
 <p><b>Week 12:</b> NLP III: generative models; loose ends<br>
